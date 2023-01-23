@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.VendingMachine-navbar a{
+  color: orange;
+}
